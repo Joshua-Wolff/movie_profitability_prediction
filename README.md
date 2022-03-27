@@ -20,7 +20,7 @@ pip install -U -r requirements.txt
 
 ### Challenge description
 
-Get started with the [dedicated notebook](movie_profitability_prediction.ipynb)
+Get started with the [dedicated notebook](movie_profitability_prediction_starting_kit.ipynb)
 
 
 ### Test a submission
