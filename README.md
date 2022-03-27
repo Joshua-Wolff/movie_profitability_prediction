@@ -1,5 +1,11 @@
 # Prediction of movie profitability
 
+Authors : Kévin Assobo Baguéka, Antoine Gey, Robin Labbé, Ewan Sean, Joshua Wolff
+
+The aim of this project is to predict the rentability of a movie using its characteristics like budget, genre, cast and realization crew. We make the assumption that the producer want a minimum profitability ratio (lets say 2 : the film's revenue must be at least two times bigger than its budget). Films can now be separated in two classes : those that are enough lucrative and those that are not. The problem is then reduced at a binary classification problem.
+
+The data comes from `The Movie DataBase API (TMDB)`, but is not endorsed or certified by TMDB. See https://developers.themoviedb.org/3/getting-started/introduction for more information.
+
 ## Getting started
 
 ### Install
@@ -14,7 +20,7 @@ pip install -U -r requirements.txt
 
 ### Challenge description
 
-Get started with the [dedicated notebook](movie_profitability_prediciton.ipynb)
+Get started with the [dedicated notebook](movie_profitability_prediction_starting_kit.ipynb)
 
 
 ### Test a submission
